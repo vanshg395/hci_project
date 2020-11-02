@@ -1,16 +1,18 @@
-# hci_project
+# Restaurant Automation App
 
-A new Flutter project.
+This app is for restaurant automation system for users to place order while on their way to the restaurant.
 
-## Getting Started
+## Instructions to Run the App
 
-This project is a starting point for a Flutter application.
+1. Run the following commands in your terminal:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+$ git clone https://github.com/vanshg395/hci_project.git
+$ cd hci_project
+$ flutter pub get
+$ flutter run
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+OR
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Download the apk from [Here](https://drive.google.com/file/d/18eMQpmUuVaZY_qVOUQekW9vpt3-N10Qg/view?usp=sharing)
